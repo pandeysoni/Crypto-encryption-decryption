@@ -9,6 +9,6 @@ node crypto
 You can see the encrypted text and decrypted text in console
 
 
-You can use crypto technique, let's have a look
+You can use JWT technique, let's have a look
 
 [JWT--JSON-Web-Token-implementation--encryption-decryption] (https://github.com/pandeysoni/JWT--JSON-Web-Token-implementation--encryption-decryption)
